@@ -1,3 +1,19 @@
+body{
+  background-color: #F0DBDB;
+}
+
 li{
     margin: 10px 0;
   }
+  hr{
+    text-align: center;
+    border-style: dotted none none;
+        width: 10%;
+        color: grey;
+    border-width: 10px;  }
+h1,h2,h3{
+  color: #3A4F7A;
+}
+img{
+
+}
